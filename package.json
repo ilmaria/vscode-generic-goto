@@ -5,6 +5,10 @@
     "version": "0.0.1",
     "license": "MIT",
     "publisher": "ilmaria",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ilmaria/vscode-generic-goto.git"
+    },
     "engines": {
         "vscode": "^1.34.0"
     },
